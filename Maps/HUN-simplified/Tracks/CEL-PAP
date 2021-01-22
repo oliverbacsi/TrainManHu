@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<maxspeed>80</maxspeed>
+	<electrified>False</electrified>
+	<section>Celldomolk -- Papa</section>
+	<rtept lat="47.26119" lon="17.15260" />
+	<rtept lat="47.25797" lon="17.16060" />
+	<rtept lat="47.25711" lon="17.16376" />
+	<rtept lat="47.25730" lon="17.16682" />
+	<rtept lat="47.25831" lon="17.17034" />
+	<rtept lat="47.26726" lon="17.19124" />
+	<rtept lat="47.28019" lon="17.22206" />
+	<rtept lat="47.29946" lon="17.26768" />
+	<rtept lat="47.31410" lon="17.30235" />
+	<rtept lat="47.31541" lon="17.30737" />
+	<rtept lat="47.31992" lon="17.33857" />
+	<rtept lat="47.32553" lon="17.37728" />
+	<rtept lat="47.33327" lon="17.43118" />
+	<rtept lat="47.33600" lon="17.44955" />
+	<rtept lat="47.33711" lon="17.45311" />
+	<rtept lat="47.34076" lon="17.45938" />
+
+</rte>
+

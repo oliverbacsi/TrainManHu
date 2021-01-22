@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<electrified>True</electrified>
+	<maxspeed>100</maxspeed>
+	<section>Szombathely -- Sopron</section>
+	<rtept lat="47.23458" lon="16.63421" />
+	<rtept lat="47.24542" lon="16.62974" />
+	<rtept lat="47.24865" lon="16.63030" />
+	<rtept lat="47.25177" lon="16.63283" />
+	<rtept lat="47.27207" lon="16.66956" />
+	<rtept lat="47.29119" lon="16.70398" />
+	<rtept lat="47.31029" lon="16.73827" />
+	<rtept lat="47.32669" lon="16.76805" />
+	<rtept lat="47.33018" lon="16.77402" />
+	<rtept lat="47.33274" lon="16.77514" />
+	<rtept lat="47.33554" lon="16.77509" />
+	<rtept lat="47.33850" lon="16.77303" />
+	<rtept lat="47.35207" lon="16.75806" />
+	<rtept lat="47.36281" lon="16.74132" />
+	<rtept lat="47.36442" lon="16.73939" />
+	<rtept lat="47.36653" lon="16.73795" />
+	<rtept lat="47.36913" lon="16.73750" />
+	<rtept lat="47.37130" lon="16.73806" />
+	<rtept lat="47.37343" lon="16.73947" />
+	<rtept lat="47.40227" lon="16.76368" />
+	<rtept lat="47.41804" lon="16.77698" />
+	<rtept lat="47.42318" lon="16.77990" />
+	<rtept lat="47.42989" lon="16.78174" />
+	<rtept lat="47.45073" lon="16.78668" />
+	<rtept lat="47.45746" lon="16.78668" />
+	<rtept lat="47.47812" lon="16.78488" />
+	<rtept lat="47.49900" lon="16.78308" />
+	<rtept lat="47.50320" lon="16.78166" />
+	<rtept lat="47.52671" lon="16.76574" />
+	<rtept lat="47.54716" lon="16.74900" />
+	<rtept lat="47.56465" lon="16.73141" />
+	<rtept lat="47.56833" lon="16.72896" />
+	<rtept lat="47.57554" lon="16.72720" />
+	<rtept lat="47.58266" lon="16.72527" />
+	<rtept lat="47.58599" lon="16.72312" />
+	<rtept lat="47.58903" lon="16.71956" />
+	<rtept lat="47.59054" lon="16.71694" />
+	<rtept lat="47.59343" lon="16.71132" />
+	<rtept lat="47.59583" lon="16.70557" />
+	<rtept lat="47.59948" lon="16.69604" />
+	<rtept lat="47.60422" lon="16.67879" />
+	<rtept lat="47.60631" lon="16.67351" />
+	<rtept lat="47.60859" lon="16.66961" />
+	<rtept lat="47.61201" lon="16.66519" />
+	<rtept lat="47.62572" lon="16.65248" />
+	<rtept lat="47.62850" lon="16.64892" />
+	<rtept lat="47.63058" lon="16.64420" />
+	<rtept lat="47.63275" lon="16.63661" />
+	<rtept lat="47.63512" lon="16.62785" />
+	<rtept lat="47.63656" lon="16.62472" />
+	<rtept lat="47.64110" lon="16.61972" />
+	<rtept lat="47.64914" lon="16.61056" />
+	<rtept lat="47.65539" lon="16.60622" />
+	<rtept lat="47.65738" lon="16.60558" />
+	<rtept lat="47.66290" lon="16.60536" />
+	<rtept lat="47.66536" lon="16.60395" />
+	<rtept lat="47.66845" lon="16.60036" />
+
+</rte>

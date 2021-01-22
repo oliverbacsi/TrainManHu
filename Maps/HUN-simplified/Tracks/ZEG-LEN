@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<electrified>False</electrified>
+	<maxspeed>60</maxspeed>
+	<section>Zalaegerszeg -- Lenti</section>
+	<rtept lat="46.88752" lon="16.91103" />
+	<rtept lat="46.88730" lon="16.90023" />
+	<rtept lat="46.88610" lon="16.89599" />
+	<rtept lat="46.88375" lon="16.89307" />
+	<rtept lat="46.86970" lon="16.87942" />
+	<rtept lat="46.86580" lon="16.87298" />
+	<rtept lat="46.86450" lon="16.87037" />
+	<rtept lat="46.86151" lon="16.85685" />
+	<rtept lat="46.86092" lon="16.85500" />
+	<rtept lat="46.85946" lon="16.85307" />
+	<rtept lat="46.85732" lon="16.85213" />
+	<rtept lat="46.85538" lon="16.85256" />
+	<rtept lat="46.85007" lon="16.85659" />
+	<rtept lat="46.84836" lon="16.85728" />
+	<rtept lat="46.84361" lon="16.85552" />
+	<rtept lat="46.84138" lon="16.85316" />
+	<rtept lat="46.83777" lon="16.84813" />
+	<rtept lat="46.82567" lon="16.84921" />
+	<rtept lat="46.80911" lon="16.85234" />
+	<rtept lat="46.80059" lon="16.85092" />
+	<rtept lat="46.78440" lon="16.85380" />
+	<rtept lat="46.76756" lon="16.85230" />
+	<rtept lat="46.74636" lon="16.85032" />
+	<rtept lat="46.73062" lon="16.84893" />
+	<rtept lat="46.72214" lon="16.84818" />
+	<rtept lat="46.71489" lon="16.84485" />
+	<rtept lat="46.71308" lon="16.84253" />
+	<rtept lat="46.71222" lon="16.84191" />
+	<rtept lat="46.71124" lon="16.84153" />
+	<rtept lat="46.70528" lon="16.84161" />
+	<rtept lat="46.69545" lon="16.83953" />
+	<rtept lat="46.68776" lon="16.83818" />
+	<rtept lat="46.68657" lon="16.83766" />
+	<rtept lat="46.68570" lon="16.83620" />
+	<rtept lat="46.68551" lon="16.83395" />
+	<rtept lat="46.68626" lon="16.83219" />
+	<rtept lat="46.69013" lon="16.82848" />
+	<rtept lat="46.69077" lon="16.82676" />
+	<rtept lat="46.69075" lon="16.82457" />
+	<rtept lat="46.68984" lon="16.82277" />
+	<rtept lat="46.68625" lon="16.81887" />
+	<rtept lat="46.67884" lon="16.81391" />
+	<rtept lat="46.67212" lon="16.80378" />
+	<rtept lat="46.66839" lon="16.79795" />
+	<rtept lat="46.66785" lon="16.79503" />
+	<rtept lat="46.66702" lon="16.79303" />
+	<rtept lat="46.66190" lon="16.78700" />
+	<rtept lat="46.66064" lon="16.78140" />
+	<rtept lat="46.65718" lon="16.77078" />
+	<rtept lat="46.65380" lon="16.76338" />
+	<rtept lat="46.65253" lon="16.75683" />
+	<rtept lat="46.65110" lon="16.75153" />
+	<rtept lat="46.64593" lon="16.73690" />
+	<rtept lat="46.64580" lon="16.73261" />
+	<rtept lat="46.64217" lon="16.72226" />
+	<rtept lat="46.63597" lon="16.70467" />
+	<rtept lat="46.62697" lon="16.68701" />
+	<rtept lat="46.62633" lon="16.68452" />
+	<rtept lat="46.62635" lon="16.67971" />
+	<rtept lat="46.62533" lon="16.67658" />
+	<rtept lat="46.61959" lon="16.66680" />
+	<rtept lat="46.60972" lon="16.64987" />
+	<rtept lat="46.60868" lon="16.64684" />
+	<rtept lat="46.60666" lon="16.63440" />
+	<rtept lat="46.60502" lon="16.62420" />
+	<rtept lat="46.60359" lon="16.61504" />
+	<rtept lat="46.60271" lon="16.59234" />
+	<rtept lat="46.60302" lon="16.58803" />
+	<rtept lat="46.60427" lon="16.58444" />
+	<rtept lat="46.60775" lon="16.57824" />
+	<rtept lat="46.61107" lon="16.57292" />
+	<rtept lat="46.61587" lon="16.56449" />
+	<rtept lat="46.61683" lon="16.55977" />
+	<rtept lat="46.61699" lon="16.55607" />
+	<rtept lat="46.61733" lon="16.55230" />
+	<rtept lat="46.62121" lon="16.52951" />
+
+</rte>

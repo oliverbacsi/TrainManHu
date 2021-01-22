@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<electrified>False</electrified>
+	<maxspeed>120</maxspeed>
+	<section>Sopron -- Csorna</section>
+	<rtept lat="47.66845" lon="16.60036" />
+	<rtept lat="47.66974" lon="16.59822" />
+	<rtept lat="47.67134" lon="16.59770" />
+	<rtept lat="47.67406" lon="16.59839" />
+	<rtept lat="47.67588" lon="16.60092" />
+	<rtept lat="47.67635" lon="16.60435" />
+	<rtept lat="47.67404" lon="16.61182" />
+	<rtept lat="47.67416" lon="16.61624" />
+	<rtept lat="47.67342" lon="16.61963" />
+	<rtept lat="47.67186" lon="16.62154" />
+	<rtept lat="47.66904" lon="16.62309" />
+	<rtept lat="47.66779" lon="16.62455" />
+	<rtept lat="47.66227" lon="16.63478" />
+	<rtept lat="47.65481" lon="16.64135" />
+	<rtept lat="47.65034" lon="16.64566" />
+	<rtept lat="47.64618" lon="16.65098" />
+	<rtept lat="47.64433" lon="16.65396" />
+	<rtept lat="47.64027" lon="16.66143" />
+	<rtept lat="47.61889" lon="16.70368" />
+	<rtept lat="47.60072" lon="16.75544" />
+	<rtept lat="47.60017" lon="16.75973" />
+	<rtept lat="47.60064" lon="16.81651" />
+	<rtept lat="47.60087" lon="16.85298" />
+	<rtept lat="47.59560" lon="16.89015" />
+	<rtept lat="47.58987" lon="16.93100" />
+	<rtept lat="47.58353" lon="16.97684" />
+	<rtept lat="47.58142" lon="16.99237" />
+	<rtept lat="47.57907" lon="17.01980" />
+	<rtept lat="47.58417" lon="17.06971" />
+	<rtept lat="47.58941" lon="17.12378" />
+	<rtept lat="47.59329" lon="17.16614" />
+	<rtept lat="47.59612" lon="17.19669" />
+	<rtept lat="47.59954" lon="17.23414" />
+	<rtept lat="47.60007" lon="17.24341" />
+	<rtept lat="47.60188" lon="17.24896" />
+
+</rte>

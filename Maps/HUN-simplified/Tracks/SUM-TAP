@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<maxspeed>80</maxspeed>
+	<electrified>False</electrified>
+	<section>Sumeg -- Tapolca</section>
+	<rtept lat="47.03522" lon="17.19805" />
+	<rtept lat="47.02755" lon="17.20056" />
+	<rtept lat="47.02456" lon="17.20502" />
+	<rtept lat="47.01508" lon="17.21249" />
+	<rtept lat="46.99817" lon="17.24648" />
+	<rtept lat="46.99401" lon="17.25660" />
+	<rtept lat="46.98927" lon="17.26398" />
+	<rtept lat="46.98312" lon="17.26965" />
+	<rtept lat="46.97276" lon="17.27549" />
+	<rtept lat="46.96081" lon="17.28621" />
+	<rtept lat="46.94651" lon="17.29669" />
+	<rtept lat="46.93385" lon="17.32269" />
+	<rtept lat="46.92887" lon="17.32853" />
+	<rtept lat="46.92295" lon="17.33102" />
+	<rtept lat="46.91504" lon="17.33256" />
+	<rtept lat="46.90929" lon="17.33634" />
+	<rtept lat="46.90313" lon="17.34269" />
+	<rtept lat="46.89868" lon="17.34475" />
+	<rtept lat="46.89410" lon="17.34973" />
+	<rtept lat="46.88196" lon="17.35711" />
+	<rtept lat="46.87492" lon="17.38226" />
+	<rtept lat="46.88073" lon="17.41796" />
+	<rtept lat="46.88184" lon="17.42174" />
+	<rtept lat="46.88096" lon="17.42517" />
+	<rtept lat="46.87722" lon="17.42867" />
+
+</rte>
+

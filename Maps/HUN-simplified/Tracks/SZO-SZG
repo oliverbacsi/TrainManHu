@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<electrified>yes</electrified>
+	<maxspeed>80</maxspeed>
+	<section>Szombathely -- Szentgotthard</section>
+	<rtept lat="47.23458" lon="16.63421" />
+	<rtept lat="47.21992" lon="16.64051" />
+	<rtept lat="47.21365" lon="16.64283" />
+	<rtept lat="47.20998" lon="16.64261" />
+	<rtept lat="47.18668" lon="16.63669" />
+	<rtept lat="47.16611" lon="16.63150" />
+	<rtept lat="47.14478" lon="16.62596" />
+	<rtept lat="47.13167" lon="16.62244" />
+	<rtept lat="47.12446" lon="16.61965" />
+	<rtept lat="47.12274" lon="16.61944" />
+	<rtept lat="47.12116" lon="16.62017" />
+	<rtept lat="47.10606" lon="16.63180" />
+	<rtept lat="47.10349" lon="16.63244" />
+	<rtept lat="47.10115" lon="16.63103" />
+	<rtept lat="47.09423" lon="16.62223" />
+	<rtept lat="47.09032" lon="16.61918" />
+	<rtept lat="47.08547" lon="16.61772" />
+	<rtept lat="47.06451" lon="16.61519" />
+	<rtept lat="47.03939" lon="16.61210" />
+	<rtept lat="47.02170" lon="16.61000" />
+	<rtept lat="47.01924" lon="16.60871" />
+	<rtept lat="47.01780" lon="16.60618" />
+	<rtept lat="47.01040" lon="16.56888" />
+	<rtept lat="47.00546" lon="16.54451" />
+	<rtept lat="47.00405" lon="16.54159" />
+	<rtept lat="46.99448" lon="16.53472" />
+	<rtept lat="46.99264" lon="16.53176" />
+	<rtept lat="46.98136" lon="16.50940" />
+	<rtept lat="46.97217" lon="16.47893" />
+	<rtept lat="46.96716" lon="16.42817" />
+	<rtept lat="46.96403" lon="16.39718" />
+	<rtept lat="46.96435" lon="16.37585" />
+	<rtept lat="46.96500" lon="16.32139" />
+	<rtept lat="46.96541" lon="16.28732" />
+	<rtept lat="46.96485" lon="16.28273" />
+	<rtept lat="46.95740" lon="16.26346" />
+
+</rte>

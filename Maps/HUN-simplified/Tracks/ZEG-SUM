@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<maxspeed>80</maxspeed>
+	<electrified>False</electrified>
+	<section>Zalaegerszeg -- Sumeg</section>
+	<rtept lat="46.88752" lon="16.91103" />
+	<rtept lat="46.88759" lon="16.92264" />
+	<rtept lat="46.88877" lon="16.92959" />
+	<rtept lat="46.89111" lon="16.93448" />
+	<rtept lat="46.90431" lon="16.94572" />
+	<rtept lat="46.91275" lon="16.95182" />
+	<rtept lat="46.91949" lon="16.96572" />
+	<rtept lat="46.93004" lon="16.97946" />
+	<rtept lat="46.93256" lon="16.98469" />
+	<rtept lat="46.93473" lon="16.98770" />
+	<rtept lat="46.94458" lon="16.99224" />
+	<rtept lat="46.94891" lon="16.99559" />
+	<rtept lat="46.95442" lon="16.99551" />
+	<rtept lat="46.95817" lon="16.99679" />
+	<rtept lat="46.96174" lon="16.99903" />
+	<rtept lat="46.96520" lon="17.00521" />
+	<rtept lat="46.96784" lon="17.00838" />
+	<rtept lat="46.97926" lon="17.01696" />
+	<rtept lat="46.98136" lon="17.02048" />
+	<rtept lat="46.98248" lon="17.02520" />
+	<rtept lat="46.98213" lon="17.03087" />
+	<rtept lat="46.98382" lon="17.05190" />
+	<rtept lat="46.98728" lon="17.07644" />
+	<rtept lat="46.98751" lon="17.08408" />
+	<rtept lat="46.99056" lon="17.08992" />
+	<rtept lat="46.99548" lon="17.09507" />
+	<rtept lat="47.01385" lon="17.12648" />
+	<rtept lat="47.01526" lon="17.13223" />
+	<rtept lat="47.01573" lon="17.14897" />
+	<rtept lat="47.01707" lon="17.15489" />
+	<rtept lat="47.02240" lon="17.16047" />
+	<rtept lat="47.02521" lon="17.16494" />
+	<rtept lat="47.02819" lon="17.17901" />
+	<rtept lat="47.02696" lon="17.18888" />
+	<rtept lat="47.02837" lon="17.19455" />
+	<rtept lat="47.03135" lon="17.19781" />
+	<rtept lat="47.03522" lon="17.19805" />
+
+</rte>
+

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<maxspeed>80</maxspeed>
+	<electrified>False</electrified>
+	<section>Celldomolk -- Sumeg</section>
+	<rtept lat="47.26119" lon="17.15260" />
+	<rtept lat="47.25710" lon="17.16305" />
+	<rtept lat="47.25284" lon="17.16760" />
+	<rtept lat="47.23944" lon="17.17446" />
+	<rtept lat="47.21980" lon="17.18511" />
+	<rtept lat="47.20307" lon="17.18905" />
+	<rtept lat="47.17723" lon="17.19214" />
+	<rtept lat="47.14169" lon="17.18425" />
+	<rtept lat="47.13211" lon="17.17918" />
+	<rtept lat="47.12872" lon="17.17155" />
+	<rtept lat="47.12668" lon="17.17009" />
+	<rtept lat="47.12271" lon="17.17206" />
+	<rtept lat="47.11885" lon="17.17034" />
+	<rtept lat="47.11185" lon="17.17292" />
+	<rtept lat="47.10530" lon="17.18142" />
+	<rtept lat="47.09777" lon="17.18210" />
+	<rtept lat="47.09105" lon="17.18485" />
+	<rtept lat="47.08497" lon="17.18605" />
+	<rtept lat="47.07953" lon="17.18931" />
+	<rtept lat="47.07515" lon="17.19515" />
+	<rtept lat="47.07123" lon="17.19695" />
+	<rtept lat="47.05977" lon="17.19953" />
+	<rtept lat="47.04901" lon="17.19403" />
+	<rtept lat="47.04141" lon="17.19566" />
+	<rtept lat="47.03522" lon="17.19805" />
+
+</rte>

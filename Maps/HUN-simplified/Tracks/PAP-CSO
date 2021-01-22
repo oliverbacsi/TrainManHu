@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<electrified>False</electrified>
+	<maxspeed>60</maxspeed>
+	<section>Papa -- Csorna</section>
+	<rtept lat="47.34076" lon="17.45938" />
+	<rtept lat="47.33856" lon="17.45564" />
+	<rtept lat="47.33827" lon="17.45346" />
+	<rtept lat="47.33900" lon="17.45144" />
+	<rtept lat="47.34827" lon="17.44161" />
+	<rtept lat="47.35987" lon="17.42543" />
+	<rtept lat="47.36775" lon="17.41479" />
+	<rtept lat="47.37420" lon="17.40676" />
+	<rtept lat="47.38374" lon="17.39852" />
+	<rtept lat="47.39295" lon="17.38801" />
+	<rtept lat="47.40308" lon="17.37629" />
+	<rtept lat="47.41761" lon="17.35947" />
+	<rtept lat="47.42905" lon="17.34737" />
+	<rtept lat="47.43877" lon="17.33746" />
+	<rtept lat="47.44399" lon="17.33158" />
+	<rtept lat="47.45021" lon="17.32372" />
+	<rtept lat="47.46477" lon="17.31192" />
+	<rtept lat="47.47414" lon="17.30424" />
+	<rtept lat="47.47600" lon="17.30381" />
+	<rtept lat="47.48960" lon="17.30965" />
+	<rtept lat="47.50694" lon="17.31703" />
+	<rtept lat="47.52384" lon="17.31634" />
+	<rtept lat="47.54922" lon="17.31647" />
+	<rtept lat="47.55562" lon="17.31651" />
+	<rtept lat="47.57010" lon="17.30471" />
+	<rtept lat="47.58773" lon="17.28158" />
+	<rtept lat="47.60159" lon="17.26343" />
+	<rtept lat="47.60388" lon="17.26150" />
+	<rtept lat="47.60466" lon="17.25935" />
+	<rtept lat="47.60440" lon="17.25677" />
+	<rtept lat="47.60188" lon="17.24896" />
+
+</rte>

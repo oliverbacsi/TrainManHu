@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<rte>
+
+	<tracks>1</tracks>
+	<electrified>False</electrified>
+	<maxspeed>120</maxspeed>
+	<section>Szombathely -- Celldomolk</section>
+	<rtept lat="47.23458" lon="16.63421" />
+	<rtept lat="47.24338" lon="16.63051" />
+	<rtept lat="47.24579" lon="16.63025" />
+	<rtept lat="47.24751" lon="16.63163" />
+	<rtept lat="47.24868" lon="16.63407" />
+	<rtept lat="47.24871" lon="16.63776" />
+	<rtept lat="47.24515" lon="16.66210" />
+	<rtept lat="47.24000" lon="16.69849" />
+	<rtept lat="47.23431" lon="16.73887" />
+	<rtept lat="47.22872" lon="16.77754" />
+	<rtept lat="47.22834" lon="16.78243" />
+	<rtept lat="47.22907" lon="16.78754" />
+	<rtept lat="47.23595" lon="16.81973" />
+	<rtept lat="47.24585" lon="16.86672" />
+	<rtept lat="47.25456" lon="16.90822" />
+	<rtept lat="47.26225" lon="16.94474" />
+	<rtept lat="47.26243" lon="16.94766" />
+	<rtept lat="47.26228" lon="16.95032" />
+	<rtept lat="47.25823" lon="16.97671" />
+	<rtept lat="47.25838" lon="16.98122" />
+	<rtept lat="47.25963" lon="16.98615" />
+	<rtept lat="47.26193" lon="16.99044" />
+	<rtept lat="47.26493" lon="16.99289" />
+	<rtept lat="47.26907" lon="16.99478" />
+	<rtept lat="47.27175" lon="16.99675" />
+	<rtept lat="47.27416" lon="17.00044" />
+	<rtept lat="47.28036" lon="17.01246" />
+	<rtept lat="47.28240" lon="17.01739" />
+	<rtept lat="47.28342" lon="17.02121" />
+	<rtept lat="47.28488" lon="17.02919" />
+	<rtept lat="47.28467" lon="17.03211" />
+	<rtept lat="47.28342" lon="17.03482" />
+	<rtept lat="47.27632" lon="17.04095" />
+	<rtept lat="47.27113" lon="17.04181" />
+	<rtept lat="47.26924" lon="17.04327" />
+	<rtept lat="47.26784" lon="17.04653" />
+	<rtept lat="47.26773" lon="17.05001" />
+	<rtept lat="47.26589" lon="17.05559" />
+	<rtept lat="47.26554" lon="17.05808" />
+	<rtept lat="47.26583" lon="17.06069" />
+	<rtept lat="47.26883" lon="17.06645" />
+	<rtept lat="47.27081" lon="17.07258" />
+	<rtept lat="47.27413" lon="17.07932" />
+	<rtept lat="47.27937" lon="17.08670" />
+	<rtept lat="47.28127" lon="17.09134" />
+	<rtept lat="47.28202" lon="17.09670" />
+	<rtept lat="47.28133" lon="17.10310" />
+	<rtept lat="47.26968" lon="17.13172" />
+	<rtept lat="47.26119" lon="17.15260" />
+
+</rte>
